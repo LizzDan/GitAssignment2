@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(26, 26, 210);
+
+}
+body.active{
+    background-color: aquamarine;
+}
+.image{
+    margin-left: 2rem;
+}
+
+.Home{
+    font-size: 5rem;
+    justify-content: center;
+}
+.abt{
+    font-size: 4rem;
+    text-align: center;
+}
+.services{
+    text-decoration: none;
+    text-shadow: 20px;
+    font-size: 2rem;
+}
+.btn{
+    color: blueviolet;
+    width: 5rem;
+    height: 3rem;
+    justify-content: center;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    box-shadow: none;
+    background-color: bisque;
+
+    
+}
+.btn:hover{
+    background-color: brown;
+}
+.more{
+    font-size: 1.5rem;
+}
+#outcome{
+    font-size: 1.5rem;
+}
+.theme { 
+    color: burlywood;
+    border-radius: 1rem;
+    font-family: 1.5rem; 
+    width: 6rem;
+    height: 3rem;
+  }
+.theme:hover {
+    background-color: blueviolet;
+}
